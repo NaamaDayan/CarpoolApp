@@ -1,0 +1,6 @@
+
+
+Flask
+firebase-admin
+pandas
+googlemaps

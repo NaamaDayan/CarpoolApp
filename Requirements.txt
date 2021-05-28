@@ -1,0 +1,60 @@
+
+//General:
+npm install -g expo-cli
+npm install -g yarn
+
+//Icons:
+npm install react-native-elements
+npm install --save react-native-vector-icons
+
+
+//Navigations:
+npm install @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+//Datetime Picker:
+expo install react-native-modal-datetime-picker @react-native-community/datetimepicker
+npm install moment --save
+
+//Authentication:
+npm install --save firebase
+npm install --save react-firebaseui
+expo install expo-facebook
+expo install expo-google-app-auth
+
+//Chat:
+npm install react-native-gifted-chat --save
+
+
+//Search autocomplete:
+npm install react-native-google-places-autocomplete --save
+yarn add react-native-google-autocomplete
+npm install --save react-native-geocoding
+npm install react-native-maps --save-exact
+
+
+//DataBase:
+npm install --save firebase
+//install mongoDB: https://www.mongodb.com/, and install GUI: https://www.mongodb.com/
+//On C:/data/db launch "mongod"
+
+
+//Backend:
+//In Backend directory
+npm install --save-dev babel babel-cli babel-preset-es2015 babel-preset-stage-0 nodemon 
+npm install --save body-parser express moment mongoose morgan
+
+//In main directory
+npm install --save redux react-redux
+npm install --save-dev babel-plugin-transform-decorators-legacy
+
+//clustering
+npm i node-kmeans
+npm i csv-parser
+
+
+
+
+
+
+

@@ -1,0 +1,46 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+
+.idea/
+node_modules
+<<<<<<< HEAD
+
+API_backend/venv/
+
+.vscode/settings.json
+
+.expo-shared/
+=======
+>>>>>>> master
+
+Client/.expo/packager-info.json
+
+Client/package-lock.json
+
+Client/yarn.lock
+
+CarpoolClient/package-lock.json
+
+API_backend/apis/__pycache__/
+
+Backend/API/apis/__pycache__/
+
+Backend/Data/__pycache__/
+
+Backend/API/modules/__pycache__/
+
+Backend/Logic/__pycache__/
+
+Backend/Logic/modules/__pycache__/
